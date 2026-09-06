@@ -30,6 +30,14 @@ accounts are used for SharePoint, Copilot Studio and the agents (Topics 3 to 6).
 Team site, private, M365 group `NorthstarFinance`. Members: training1, training2.
 Owner: admin.
 
+> **Open the site by URL the first time.** A private team site does not appear in
+> "My sites" until the account follows it, so a learner who goes looking for it in
+> the SharePoint site list will not find it and will assume they were left out.
+> Both learner accounts have been set to follow this site, but if a learner still
+> cannot see it: open the URL above, then click the star (**Follow**) in the top
+> right. Verified 7 Sep 2026 — training1 and training2 each open the site and read
+> both document libraries.
+
 ### Document libraries
 
 | Library | Contents |
