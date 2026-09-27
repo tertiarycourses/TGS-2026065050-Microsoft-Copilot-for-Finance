@@ -73,13 +73,13 @@ Shared lab inputs: [finance dataset (CSV)](labs/_data/) · [approved finance pol
 
 ## Courseware package
 
-Current version: **deck v6.1 · Lesson Plan and Learner Guide v5.1 (27 September 2026)** — see the [changelog](courseware/CHANGELOG.md).
+Current version: **deck v6.2 · Lesson Plan and Learner Guide v5.2 (27 September 2026)** — see the [changelog](courseware/CHANGELOG.md).
 
 | Document | Editable | PDF |
 |---|---|---|
-| Trainer slides | [PPTX](courseware/TGS-2026065050-Microsoft%20Copilot%20for%20Finance-Trainer-Slides-v6.1.pptx) | [PDF](courseware/TGS-2026065050-Microsoft%20Copilot%20for%20Finance-Trainer-Slides-v6.1.pdf) |
-| Lesson Plan | [DOCX](courseware/LP-TGS-2026065050-Microsoft%20Copilot%20for%20Finance-Lesson-Plan-v5.1.docx) | [PDF](courseware/LP-TGS-2026065050-Microsoft%20Copilot%20for%20Finance-Lesson-Plan-v5.1.pdf) |
-| Learner Guide | [DOCX](courseware/LG-TGS-2026065050-Microsoft%20Copilot%20for%20Finance-Learner-Guide-v5.1.docx) | [PDF](courseware/LG-TGS-2026065050-Microsoft%20Copilot%20for%20Finance-Learner-Guide-v5.1.pdf) |
+| Trainer slides | [PPTX](courseware/TGS-2026065050-Microsoft%20Copilot%20for%20Finance-Trainer-Slides-v6.2.pptx) | [PDF](courseware/TGS-2026065050-Microsoft%20Copilot%20for%20Finance-Trainer-Slides-v6.2.pdf) |
+| Lesson Plan | [DOCX](courseware/LP-TGS-2026065050-Microsoft%20Copilot%20for%20Finance-Lesson-Plan-v5.2.docx) | [PDF](courseware/LP-TGS-2026065050-Microsoft%20Copilot%20for%20Finance-Lesson-Plan-v5.2.pdf) |
+| Learner Guide | [DOCX](courseware/LG-TGS-2026065050-Microsoft%20Copilot%20for%20Finance-Learner-Guide-v5.2.docx) | [PDF](courseware/LG-TGS-2026065050-Microsoft%20Copilot%20for%20Finance-Learner-Guide-v5.2.pdf) |
 
 ### Tools used
 

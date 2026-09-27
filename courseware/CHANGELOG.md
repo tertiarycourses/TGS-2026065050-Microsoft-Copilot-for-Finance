@@ -1,5 +1,15 @@
 # Courseware Changelog
 
+## v6.2 (deck) / v5.2 (documents) — 27 September 2026
+
+- Fixed comparison tables that ran underneath their "When it matters" panel (the reference
+  slides) and a two-line note that overflowed its panel (Your Lab Accounts).
+- Added the Tertiary Infotech logo and a labelled WSQ course code to the deck cover.
+- Lesson Plan and Learner Guide: the Table of Contents is now populated in the PDFs
+  (levels 1–2).
+- Lesson Plan, Learner Guide and assessments: logo and UEN on the cover, and
+  "Page X of Y" in the footer.
+
 ## v6.1 (deck) / v5.1 (documents) — 27 September 2026
 
 - Retitled the course from "Generative AI for Finance and Fintech" to "Microsoft Copilot
