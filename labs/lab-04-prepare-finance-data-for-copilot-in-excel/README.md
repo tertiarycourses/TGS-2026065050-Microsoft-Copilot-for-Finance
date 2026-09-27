@@ -1,6 +1,6 @@
 # Lab 4: Prepare Finance Data for Copilot in Excel
 
-**Course:** Generative AI for Finance and Fintech (TGS-2026065050)  
+**Course:** Microsoft Copilot for Finance (TGS-2026065050)  
 **Mapping:** K1 · A2  
 **Suggested time:** 90 minutes  
 **Objective:** Convert a messy finance export into an analysis-ready Excel Table with reconciled control totals.

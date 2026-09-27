@@ -1,6 +1,6 @@
 # Lab 12: Secure a Finance Agent for PDPA and Human Oversight
 
-**Course:** Generative AI for Finance and Fintech (TGS-2026065050)  
+**Course:** Microsoft Copilot for Finance (TGS-2026065050)  
 **Mapping:** K3 · A4 · A5  
 **Suggested time:** 60 minutes  
 **Objective:** Apply PDPA, data-classification, security and oversight controls, then decide whether the agent may be published.

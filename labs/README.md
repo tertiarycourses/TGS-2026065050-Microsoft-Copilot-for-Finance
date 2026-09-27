@@ -1,4 +1,4 @@
-# Labs - Generative AI for Finance and Fintech
+# Labs - Microsoft Copilot for Finance
 
 Course: TGS-2026065050
 

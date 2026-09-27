@@ -1,6 +1,6 @@
 # Lab 8: Ground a Finance Agent and Test Its Refusals
 
-**Course:** Generative AI for Finance and Fintech (TGS-2026065050)  
+**Course:** Microsoft Copilot for Finance (TGS-2026065050)  
 **Mapping:** K1 · A3  
 **Suggested time:** 120 minutes  
 **Objective:** Build a Copilot Studio agent grounded on approved finance content and prove it refuses correctly.

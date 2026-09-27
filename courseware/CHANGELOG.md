@@ -1,5 +1,17 @@
 # Courseware Changelog
 
+## v6.1 (deck) / v5.1 (documents) — 27 September 2026
+
+- Retitled the course from "Generative AI for Finance and Fintech" to "Microsoft Copilot
+  for Finance" across the deck, Lesson Plan, Learner Guide, all 12 labs and both
+  assessment instruments (course code TGS-2026065050 unchanged).
+- Updated the course page link to casl-microsoft-copilot-for-finance.html and the
+  repository link to TGS-2026065050-Microsoft-Copilot-for-Finance.
+- Added a v5.1 row to the Document Version Control Record; content is otherwise unchanged.
+- The Power Platform environment keeps its live display name
+  "TGS-2026065050-Generative AI for Finance and Fintech" in the labs, because that is the
+  name learners see in the tenant.
+
 ## v6.0 (deck) / v5.0 (documents) — 6 September 2026
 
 Restructured the course from 5 topics to 6, entirely around Microsoft Copilot, and

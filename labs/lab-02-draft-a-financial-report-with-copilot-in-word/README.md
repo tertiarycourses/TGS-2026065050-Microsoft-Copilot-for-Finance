@@ -1,6 +1,6 @@
 # Lab 2: Draft a Financial Report with Copilot in Word
 
-**Course:** Generative AI for Finance and Fintech (TGS-2026065050)  
+**Course:** Microsoft Copilot for Finance (TGS-2026065050)  
 **Mapping:** K2 · A1  
 **Suggested time:** 90 minutes  
 **Objective:** Use Copilot in Word to draft a management report from approved figures and verify every number.

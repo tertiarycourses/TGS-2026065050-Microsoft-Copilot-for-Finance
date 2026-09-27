@@ -1,6 +1,6 @@
 # Lab 9: Create the Environment and a Finance Agent Flow
 
-**Course:** Generative AI for Finance and Fintech (TGS-2026065050)  
+**Course:** Microsoft Copilot for Finance (TGS-2026065050)  
 **Mapping:** A3  
 **Suggested time:** 120 minutes  
 **Objective:** Provision a governed environment and build an agent flow that reads approved finance data.

@@ -1,6 +1,6 @@
 # Lab 7: Build the Finance SharePoint Site and Load Finance Data
 
-**Course:** Generative AI for Finance and Fintech (TGS-2026065050)  
+**Course:** Microsoft Copilot for Finance (TGS-2026065050)  
 **Mapping:** K1 · A3  
 **Suggested time:** 120 minutes  
 **Objective:** Create a governed finance site with typed lists and an approved document library.

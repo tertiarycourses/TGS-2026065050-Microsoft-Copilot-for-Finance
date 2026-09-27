@@ -1,6 +1,6 @@
 # Lab 10: Add a Human Approval Gate to a Finance Workflow
 
-**Course:** Generative AI for Finance and Fintech (TGS-2026065050)  
+**Course:** Microsoft Copilot for Finance (TGS-2026065050)  
 **Mapping:** A3  
 **Suggested time:** 90 minutes  
 **Objective:** Build a blocking human-in-the-loop approval gate and prove that inaction fails safe.

@@ -1,6 +1,6 @@
 # Lab 5: Analyse Variances and Build a Dashboard with Copilot
 
-**Course:** Generative AI for Finance and Fintech (TGS-2026065050)  
+**Course:** Microsoft Copilot for Finance (TGS-2026065050)  
 **Mapping:** K1 · A2  
 **Suggested time:** 150 minutes  
 **Objective:** Use Copilot in Excel to analyse budget variances and build an auditable management dashboard.

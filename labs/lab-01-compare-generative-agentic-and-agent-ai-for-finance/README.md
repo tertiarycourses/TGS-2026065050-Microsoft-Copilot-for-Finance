@@ -1,6 +1,6 @@
 # Lab 1: Compare Generative, Agentic and Agent AI for Finance
 
-**Course:** Generative AI for Finance and Fintech (TGS-2026065050)  
+**Course:** Microsoft Copilot for Finance (TGS-2026065050)  
 **Mapping:** K2 · A1  
 **Suggested time:** 60 minutes  
 **Objective:** Classify finance and fintech use cases by AI type and match each to the control it needs.

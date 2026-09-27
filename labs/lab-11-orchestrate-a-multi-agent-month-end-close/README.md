@@ -1,6 +1,6 @@
 # Lab 11: Orchestrate a Multi-Agent Month-End Close
 
-**Course:** Generative AI for Finance and Fintech (TGS-2026065050)  
+**Course:** Microsoft Copilot for Finance (TGS-2026065050)  
 **Mapping:** K4 · A3  
 **Suggested time:** 75 minutes  
 **Objective:** Build a supervisor with connected specialist agents and prove the routing and the escalation.

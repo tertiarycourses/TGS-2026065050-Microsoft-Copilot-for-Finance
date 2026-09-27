@@ -1,6 +1,6 @@
 # Lab 6: Reconcile Accounts and Forecast with Copilot
 
-**Course:** Generative AI for Finance and Fintech (TGS-2026065050)  
+**Course:** Microsoft Copilot for Finance (TGS-2026065050)  
 **Mapping:** K1 · A2  
 **Suggested time:** 120 minutes  
 **Objective:** Apply deterministic matching rules and build a driver-based forecast with scenarios.

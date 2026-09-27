@@ -1,6 +1,6 @@
 # Lab 3: Build a Financial Presentation and an M365 Finance Agent
 
-**Course:** Generative AI for Finance and Fintech (TGS-2026065050)  
+**Course:** Microsoft Copilot for Finance (TGS-2026065050)  
 **Mapping:** K2 · A1  
 **Suggested time:** 90 minutes  
 **Objective:** Generate a board deck from the approved report, then build a no-code M365 agent grounded on the finance site.

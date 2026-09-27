@@ -1,4 +1,4 @@
-# Tenant resources — TGS-2026065050 Generative AI for Finance and Fintech
+# Tenant resources — TGS-2026065050 Microsoft Copilot for Finance
 
 Everything below was provisioned on the Tertiary Infotech tenant on 6 September 2026
 and is used by the labs. **All finance data is synthetic.**
