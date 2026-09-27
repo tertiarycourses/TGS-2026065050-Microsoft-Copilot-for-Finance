@@ -8,6 +8,8 @@
 - Updated the course page link to casl-microsoft-copilot-for-finance.html and the
   repository link to TGS-2026065050-Microsoft-Copilot-for-Finance.
 - Added a v5.1 row to the Document Version Control Record; content is otherwise unchanged.
+- Assessment question papers now carry the Grading block (C / NYC, assessor name, NRIC,
+  date and signature) on page 2 in place of the Official use table.
 - The Power Platform environment keeps its live display name
   "TGS-2026065050-Generative AI for Finance and Fintech" in the labs, because that is the
   name learners see in the tenant.
